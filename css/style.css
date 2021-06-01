@@ -1,0 +1,27 @@
+.dark {
+  --background-color: black;
+  --font-color: white;
+}
+
+.light {
+  --background-color: white;
+  --font-color: black;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--font-color);
+  font-family: "Comic Sans MS";
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
