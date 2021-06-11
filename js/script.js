@@ -3,9 +3,12 @@ function setTheme(name) {
   // don't judge i know this is very janky but shut up it works and i fixed my problem - j 2021-06-02
   let text = "lol";
   if (name === "light")
-    text = "<a href='" + "javascript:toggleTheme()" + "'>click me :)</a>";
+    text = "<a onCLick='" + "javascript:toggleTheme()" + "'>click me :)</a>";
+
   if (name === "dark")
-    text = "<a href='" + "javascript:toggleTheme()" + "'>don't click me :(</a>";
+    text =
+      "<a onClick='" + "javascript:toggleTheme()" + "'>don't click me :(</a>";
+
   document.documentElement.className = name;
   document.getElementById("switcher").innerHTML = text;
 }
