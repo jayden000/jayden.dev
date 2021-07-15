@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:jayden@jayden.dev
+Expires: 2023-07-15T09:00:00.000Z
+Encryption: https://jayden.dev/pgp.txt
+Encryption: https://keybase.io/jayden000
+Preferred-Languages: en
+Canonical: https://jayden.dev/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEzW3c/EZdc4aEF3wnxCUC5MmkirQFAmDv+kkACgkQxCUC5Mmk
+irTrTBAAnEZeXMC1ah2kBChJW8X1xEzXTU2QDSCXG2fNtCu90x6kxwY4IBe6kRL4
+0PTMJlwcwBQGozwKMrpnfqBIED5D6g66UJlmP4t4ZD2LXx/SOUMJOy6zN/UE4gMb
+i6nZl97NhfLa2nRV5Qguf/aB6QF4Uu0XCDPpw3UR3lyRPu+PlKRjOJPLfpfXbK+R
+TyprLO3BbzLKQR3cSd2854pj0MuDuNEurjUWEf1p4fem4idG7cWmzEo8oB87n/Xe
+Wh+9l3bheTgWKA3mCqSJvPOgQzohrZUU1A0H/SVunKRX9a4JMwxiuradzDAPQx5p
+Q087CmXjavCQi/lEysA77sCvKEkMbsGHPkpzmEieKx/KeluYzfuufM0zX84VH4IY
+8cwMn+G9pLzChUyaQbPFLg8Rg4F0v8Umq0V0Qm1IhDnrxF9/ABPQVowrpwT+N/Ie
+cP+2iZXnl6N6Z1gZ0ZcMmM6mTjLdyfUf+zu5OXCYzauTP7qY2LL/QIYjuiCbf/Vf
+84QIQW6chcYbP+H59dshtGMBJD9W2fk6WKSnWq3TQvcpSwrQ+8Qeq/rZS92kwQNZ
+fTu6ZXZGM5EVQN+llu4KeIjRQ29R2hm6ZtoO7+Q1UZ+Ak4MzWDJCArK6DYVPr2eq
+6+toc2R1AvuPwCu9Kg8NImBCwJViP/df8KRCxUt26r2RTPMx6VI=
+=+zgd
+-----END PGP SIGNATURE-----

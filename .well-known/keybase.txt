@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jayden000
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jayden.dev
+  * I am jayden000 (https://keybase.io/jayden000) on keybase.
+  * I have a public key ASAEpRlbKPA6mJuFyE63mBtBfHPF_vV-5Hw_uy5VsVAesAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209b2db71660eff43028d6d48d431d8f0903237facf42d4510def3aac7387cdf870a",
+      "host": "keybase.io",
+      "kid": "012004a5195b28f03a989b85c84eb7981b417c73c5fef57ee47c3fbb2e55b1501eb00a",
+      "uid": "f52251d2b6e8d41621dee7fa45d35c19",
+      "username": "jayden000"
+    },
+    "merkle_root": {
+      "ctime": 1626340124,
+      "hash": "9c4a8ee8fb118f3d8139f8c88a9b5cc936c9b965d227c96577bfb12ed233f6a92d9cbdeaec915392b765beecc7adf66f49a089b20258f9641c781155ad456f30",
+      "hash_meta": "5edda46d2744882b6ff6732c2bb297364d044cdbfeb4051720f1fe3e402b424f",
+      "seqno": 20380609
+    },
+    "service": {
+      "entropy": "KzkwWLTrfByFCuSvLLckdTj7",
+      "hostname": "jayden.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1626340133,
+  "expire_in": 504576000,
+  "prev": "127490984eca19460444c3f0948f051616e93fb7104f543a0a68ff9207835188",
+  "seqno": 201,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBKUZWyjwOpibhchOt5gbQXxzxf71fuR8P7suVbFQHrAKp3BheWxvYWTES5cCzMnEIBJ0kJhOyhlGBETD8JSPBRYW6T+3EE9UOgpo/5IHg1GIxCDXnwJ/0WnHNwbSgMGhy2MwXh3YvKOE7mYAOV4uWFGwwwIBwqNzaWfEQCHhFYczIbz+sWM05mMk7mg+LIpILPx/LGpmzAUW84K/U/vHb1FMFQWWQ7sU2+aSNUVnVnzZYUrMb4PisVcKYwOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBSsnMh+pgNAx0hYErpPWKzynzDhHnSkulkisl3bIJSKaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jayden000
+
+==================================================================
