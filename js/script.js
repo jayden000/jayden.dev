@@ -1,5 +1,7 @@
 //i know this whole js file is janky pls don't call me out for being a bad dev :(
 
+//jayden from 2021-07-15 at 06:09 ET, pls help me i can't sleep :(
+
 function setTheme(name) {
   localStorage.setItem("j", name);
   // don't judge i know this is very janky but shut up it works and i fixed my problem - j 2021-06-02
