@@ -17,7 +17,7 @@ function setTheme(name) {
     document.querySelector("link[rel='shortcut icon']").href = "./img/j-2.png";
   }
 
-  document.documentElement.className = name;
+  document.body.className = name;
   document.getElementById("switcher").innerHTML = text;
 }
 
