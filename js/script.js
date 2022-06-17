@@ -7,13 +7,12 @@ function setTheme(name) {
   // don't judge i know this is very janky but shut up it works and i fixed my problem - j 2021-06-02
   let text = "lol";
   if (name === "light") {
-    text = "<a onCLick='" + "javascript:toggleTheme()" + "'>click me :)</a>";
+    text = "<a id='" + "switcher" + "'>click me :)</a>";
     document.querySelector("link[rel='shortcut icon']").href = "./img/j.png";
   }
 
   if (name === "dark") {
-    text =
-      "<a onClick='" + "javascript:toggleTheme()" + "'>don't click me :(</a>";
+    text = "<a id='" + "switcher" + "'>don't click me :(</a>";
     document.querySelector("link[rel='shortcut icon']").href = "./img/j-2.png";
   }
 
@@ -32,6 +31,8 @@ function toggleTheme() {
 }
 
 window.onload = function () {
+  document.getElementById("switcher").addEventListener("click", toggleTheme);
+
   if (localStorage.getItem("j") === "light") {
     setTheme("light");
     console.log("auto applied light :(");
