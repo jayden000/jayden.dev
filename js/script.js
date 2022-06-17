@@ -30,7 +30,21 @@ function toggleTheme() {
   }
 }
 
+function randomText() {
+  let strings = [
+    "good web design, i know. ",
+    "much web design, very wow",
+    "j.",
+    ":)",
+    ":(",
+  ];
+
+  let random = Math.floor(Math.random() * strings.length);
+  document.getElementById("title").innerHTML = strings[random];
+}
+
 window.onload = function () {
+  document.getElementById("title").onload = randomText();
   document.getElementById("switcher").addEventListener("click", toggleTheme);
 
   if (localStorage.getItem("j") === "light") {
