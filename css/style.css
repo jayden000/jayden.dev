@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Comic Sans';
+  font-family: 'lmao';
   src: url('../fonts/comic.ttf');
 }
 
@@ -16,7 +16,7 @@
 body {
   background-color: var(--background-color);
   color: var(--font-color);
-  font-family: "Comic Sans MS", "Comic Sans";
+  font-family: "Comic Sans MS", lmao;
 }
 
 a {
