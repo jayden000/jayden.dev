@@ -2,25 +2,24 @@
 Hash: SHA256
 
 Contact: mailto:jayden@jayden.dev
-Expires: 2023-07-15T09:00:00.000Z
+Expires: 2028-07-24T04:01:00.000Z
 Encryption: https://jayden.dev/pgp.txt
 Encryption: https://keybase.io/jayden000
 Preferred-Languages: en
 Canonical: https://jayden.dev/.well-known/security.txt
-
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEzW3c/EZdc4aEF3wnxCUC5MmkirQFAmDv+kkACgkQxCUC5Mmk
-irTrTBAAnEZeXMC1ah2kBChJW8X1xEzXTU2QDSCXG2fNtCu90x6kxwY4IBe6kRL4
-0PTMJlwcwBQGozwKMrpnfqBIED5D6g66UJlmP4t4ZD2LXx/SOUMJOy6zN/UE4gMb
-i6nZl97NhfLa2nRV5Qguf/aB6QF4Uu0XCDPpw3UR3lyRPu+PlKRjOJPLfpfXbK+R
-TyprLO3BbzLKQR3cSd2854pj0MuDuNEurjUWEf1p4fem4idG7cWmzEo8oB87n/Xe
-Wh+9l3bheTgWKA3mCqSJvPOgQzohrZUU1A0H/SVunKRX9a4JMwxiuradzDAPQx5p
-Q087CmXjavCQi/lEysA77sCvKEkMbsGHPkpzmEieKx/KeluYzfuufM0zX84VH4IY
-8cwMn+G9pLzChUyaQbPFLg8Rg4F0v8Umq0V0Qm1IhDnrxF9/ABPQVowrpwT+N/Ie
-cP+2iZXnl6N6Z1gZ0ZcMmM6mTjLdyfUf+zu5OXCYzauTP7qY2LL/QIYjuiCbf/Vf
-84QIQW6chcYbP+H59dshtGMBJD9W2fk6WKSnWq3TQvcpSwrQ+8Qeq/rZS92kwQNZ
-fTu6ZXZGM5EVQN+llu4KeIjRQ29R2hm6ZtoO7+Q1UZ+Ak4MzWDJCArK6DYVPr2eq
-6+toc2R1AvuPwCu9Kg8NImBCwJViP/df8KRCxUt26r2RTPMx6VI=
-=+zgd
+iQIzBAEBCAAdFiEEbNPOIDsyRxJPeOlZmSCcZaUdXn8FAmTBmDgACgkQmSCcZaUd
+Xn/r8A/+JOfUGgMFU0ZIJR6W7HUDlsVjOeJ/ausp3vtMSkLunxTG2fFViM1jQfSv
+UWV0KM0QqcNPzfWCS03qdynFFsQXVCmzYjUkAfEVYUXqY0KrGgi34/KaNpSKlLCh
+2YvIWp6WTzy/3pKsEw1yd8lAGlxz0H+VVcgcW7EfsLehPZGAGxRyIJojeDhNggiP
+YIOzcfRsnVsq7VH8a88ki8j8SxQyTmohJ7K27OX3edF5OMRS2jeheqtwbh7zDLoA
+akFSHo4LPFiWsMKGpGWekFEr6CRAqJmNw31oAtFyFu0bdNH7w4Rd4zVELL7zkf5s
+tLNkGmwz13+/l0tWxtit+SsL0sYbNBVb7XAKRJJT5muhMalwkc7wG76Xlb0tE6aC
+eSi9rwH0rg+JsmkOrE9pfqqg3K7CGY1Gr/K9SR/V/4/FLX66winkKZaLYrySJzNz
+t4XskoNd9NAqsxJIpeMNOEa8Wzcm8NjK4C751Kw6L9DbEY3Vm+W+c8iMVks/j3sx
+t3DvIIJCJIYCdDXwqfvhgeBfJlDqm72+NzDpHgVdNL6OwINrhzfjSDyNshfH5b9l
+KrqfuDp522lyoHCNbDP5/46aMvY9mrk+cenkl/8LhoaQNDMf3ueHK9ctG9/+sN6K
+67eI3tDKqasYOV3SoqsPatXwcjrMw1+bx/PH0DonhfSVF/jDHfU=
+=H6LO
 -----END PGP SIGNATURE-----
